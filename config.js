@@ -22,7 +22,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || 'NnBCN1V_J_A_R_V_I_S_UV_J_A_R_V_I_S_zM=',
   LANG: process.env.LANG || 'EN',
   AUTO_REACTION: process.env.AUTO_REACTION || 'true',
-  HANDLERS: process.env.HANDLER  || '919954248886',
+  HANDLERS: process.env.HANDLER  || '/',
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: 'main',
   STICKER_PACKNAME: process.env.STICKER_PACKNAME || 'MYNA',
